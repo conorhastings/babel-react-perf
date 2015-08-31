@@ -1,0 +1,21 @@
+{
+  "name": "babel-react-perf",
+  "version": "0.0.1",
+  "description": "a babel plugin that measures performance of react lifecycle functions",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/conorhastings/babel-react-perf"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Conor Hastings",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/conorhastings/babel-react-perf/issues"
+  },
+  "dependencies": {
+    "babel-plugin-wrap-react-components": "^2.0.1"
+  }
+}
